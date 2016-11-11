@@ -1,5 +1,5 @@
 javascript:(function(){
-  console.log('LearnMod Initialized');
+  console.log('LearnMod has Initialized');
   var e = new Event("keydown");
   e.keyCode=27;
   e.which=e.keyCode;
